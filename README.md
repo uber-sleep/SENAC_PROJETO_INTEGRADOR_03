@@ -20,3 +20,10 @@
 - Gerenciamento de fornecedores de materiais ou serviços, incluindo informações financeiras opcionais.
 - Disponibilidade para processos administrativos após o cadastro.
 
+## Diagrama de Caso de Uso
+
+<p style="text-align: center"><img src="./img/diagrama_de_caso_de_uso.jpeg" width="720px"></p>
+
+## Diagrama de Classe
+
+<p style="text-align: center"><img src="./img/diagrama_de_classe.jpeg" width="720px"></p>
