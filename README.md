@@ -1,6 +1,6 @@
 # Projeto Integrador III: Desenvolvimento de Sistemas Orientado a  Objetos
 
-## Requisitos Funcionais:
+## Requisitos Funcionais
  #### Cadastro de Pessoa Física:
 - Cadastro de dados como nome, CPF, RG, endereço e telefone.
 - Validação de informações (formato de e-mail, senha confirmada).
@@ -34,8 +34,8 @@
 
 ## Diagrama de Caso de Uso
 
-<p style="text-align: center"><img src="./img/diagrama_de_caso_de_uso.jpeg" width="720px"></p>
+<img src="./img/diagrama_de_caso_de_uso.jpeg" width="100%">
 
 ## Diagrama de Classe
 
-<p style="text-align: center"><img src="./img/diagrama_de_classe.jpeg" width="720px"></p>
+<img src="./img/diagrama_de_classe.jpeg" width="100%">
