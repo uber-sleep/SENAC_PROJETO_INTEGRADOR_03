@@ -20,6 +20,18 @@
 - Gerenciamento de fornecedores de materiais ou serviços, incluindo informações financeiras opcionais.
 - Disponibilidade para processos administrativos após o cadastro.
 
+## Prototipação
+
+![Tela de Cadastro de Pessoa Física](./img/Pessoa%20Física.png)
+
+![Tela de Cadastro de Pessoa Jurídica](./img/Pessoa%20Jurídica.png)
+
+![Tela de Cadastro de Aluno](./img/Aluno.png) 
+
+![Tela de Cadastro de Professor](./img/Professor.png)
+
+![Tela de Cadastro de Fornecedor](./img/Fornecedor.png)              
+
 ## Diagrama de Caso de Uso
 
 <p style="text-align: center"><img src="./img/diagrama_de_caso_de_uso.jpeg" width="720px"></p>
